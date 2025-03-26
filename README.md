@@ -1,6 +1,6 @@
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mrityunjay-pandey">
+  <a href="https://www.linkedin.com/in/mrityunjay-pandey-59783a255/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Mrityunjay-Pandey">
@@ -16,13 +16,12 @@
 <h1 align="center">Hi there, I'm Mrityunjay Pandey! 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <img src="https://raw.githubusercontent.com/Mrityunjay-Pandey/Mrityunjay-Pandey/main/your-gif-file.gif" width="500px">
 </p>
 
 ### 🏆 **About Me**
 - 🔥 Passionate about **Data Structures & Algorithms**  
 - 💻 Studying **Software Engineering** and exploring **System Design**  
-- 🏫 Teaching **DSA for free**  
 - 📚 Building **Java Projects & Competitive Programming**  
 - 🤝 Always open to collaborations & discussions  
 
@@ -52,18 +51,3 @@
 ---
 
 ## 📫 **Let's Connect**
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrityunjay-pandey">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mrityunjaypandey1508@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Mrityunjay-Pandey">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-⭐️ From **Mrityunjay Pandey**  
