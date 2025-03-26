@@ -44,7 +44,8 @@
 ---
 
 ## 📂 **Projects**
-🚀 **[Password Generator](https://github.com/Mrityunjay-Pandey/password-generator)** – Secure password generator in Java  
+🚀 **[TextUtils](https://mrityunjay-pandey.github.io/TextUtils/)** – Online text manipulation tool  
+🔐 **[Password Generator](https://github.com/Mrityunjay-Pandey/password-generator)** – Secure password generator in Java  
 📊 **[Scientific Calculator](https://github.com/Mrityunjay-Pandey/scientific-calculator)** – A full-featured calculator  
 ✅ **[To-Do List](https://github.com/Mrityunjay-Pandey/to-do-list)** – Minimal yet powerful task manager  
 
