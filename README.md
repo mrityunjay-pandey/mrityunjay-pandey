@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrityunjay-pandey">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Mrityunjay-Pandey">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:mrityunjaypandey1508@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<!--
-**mrityunjay-pandey/mrityunjay-pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Mrityunjay Pandey! 🚀</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
+
+### 🏆 **About Me**
+- 🔥 Passionate about **Data Structures & Algorithms**  
+- 💻 Studying **Software Engineering** and exploring **System Design**  
+- 🏫 Teaching **DSA for free**  
+- 📚 Building **Java Projects & Competitive Programming**  
+- 🤝 Always open to collaborations & discussions  
+
+---
+
+## 🚀 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,cpp,html,css,js,mysql,git,github,linux" />
+</p>
+
+---
+
+## 🏆 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrityunjay-Pandey&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrityunjay-Pandey&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrityunjay-Pandey&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📂 **Projects**
+🚀 **[Password Generator](https://github.com/Mrityunjay-Pandey/password-generator)** – Secure password generator in Java  
+📊 **[Scientific Calculator](https://github.com/Mrityunjay-Pandey/scientific-calculator)** – A full-featured calculator  
+✅ **[To-Do List](https://github.com/Mrityunjay-Pandey/to-do-list)** – Minimal yet powerful task manager  
+
+---
+
+## 📫 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrityunjay-pandey">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mrityunjaypandey1508@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Mrityunjay-Pandey">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+⭐️ From **Mrityunjay Pandey**  
